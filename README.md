@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **React.js, Spring boot**
 
 - 📐 I am looking for a way to **increase usability**
-- 
+
 - 💬 Ask me about **UI/UX Design**
 
 - 📫 How to reach me **yeindev@gmail.com**
