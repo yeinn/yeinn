@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web developer**
 
-- 🌱 I’m currently learning **React.js, Spring boot**
+- 🌱 I’m currently learning **vue.js, node.js**
 
 - 📐 I am looking for a way to **increase usability**
 
