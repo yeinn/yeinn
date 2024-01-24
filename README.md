@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Web developer**
 
-- 🌱 I’m currently learning **vue.js, node.js**
+- 🌱 I’m currently learning **react.js, node.js**
 
-- 📐 I am looking for a way to **increase usability**
+- 📐 I am looking for a way to **automation**
 
-- 💬 Ask me about **UI/UX Design**
+- 💬 Ask me about **EveryThing!**
 
 - 📫 How to reach me **yeindev@gmail.com**
 
