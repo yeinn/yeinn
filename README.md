@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yein Choi</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate front-end developer to design from Korea</h3>
 
 <!-- 
